@@ -1,9 +1,6 @@
 # csabaiBio meeting presentations
 Summaries of journal articles and various tools discussed in csabaiBio meetings
 
----
----
-
 
 | short title                              | references                                   | presenter | slides                                        | date       |
 | :--------------------------------------- | :------------------------------------------- | :-------- | :-------------------------------------------- | :--------- |
